@@ -2,11 +2,11 @@ package method;
 
 class Test{
 	long sum(int[]a) {
-		long result = 0;
+		long ans = 0;
 		
 		for(int i=0; i<a.length; i++) {
-			result+=a[i];
+			ans+=a[i];
 		}
-		return result;
+		return ans;
 	}
 }
