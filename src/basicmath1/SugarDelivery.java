@@ -20,11 +20,6 @@ public class SugarDelivery {
 		}
 		System.out.println(result);
 		
-		
-
-		
-		
-
 	}
 
 }
